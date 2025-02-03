@@ -1,25 +1,30 @@
-# To-Do List Application
+# ✅ To-Do List
 
-This is a simple **To-Do List** web application built using **Angular**. It allows users to add tasks, mark tasks as completed, and delete tasks.
+A simple and interactive **To-Do List** web app built using **Angular**, **HTML**, **CSS**, and **JavaScript**. This app allows users to add, complete, and delete tasks while maintaining a smooth user experience. 
 
-## Features
-- Add a new task to the to-do list.
-- Mark tasks as completed, which will strike them through.
-- Delete tasks from the list.
-- View a message or image when no tasks are added.
+## 🚀 Features  
 
-## Technologies Used
-- **Angular**: A platform for building web applications.
-- **TypeScript**: Superset of JavaScript that helps with static typing.
-- **HTML/CSS**: For designing the user interface.
+✅ **Add new tasks** to the to-do list 📝  
+✅ **Mark tasks as completed** with a checkbox ✅  
+✅ **Delete tasks** from the list ❌  
+✅ **Completed tasks** are displayed separately 🏆  
+✅ **Responsive design** that works across devices 📱  
 
-## Requirements
-To run this project locally, make sure you have the following installed:
-- [Node.js](https://nodejs.org/) (preferably the latest LTS version)
-- [Angular CLI](https://angular.io/cli) (can be installed globally using `npm install -g @angular/cli`)
+## 🖥️ Demo  
 
-## Installation
+🔗 [Live Demo](YOUR_LIVE_DEMO_LINK)  
 
-1. **Clone the repository:**
+
+
+## 🛠️ Technologies Used  
+
+- **Angular** - Framework for building the app  
+- **HTML** - Structure  
+- **CSS** - Styling & UI Enhancements  
+- **JavaScript** - Logic for task management  
+
+## 📂 Installation  
+
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/YOUR_GITHUB_USERNAME/todo-list.git
